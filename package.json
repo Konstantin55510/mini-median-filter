@@ -1,6 +1,6 @@
 {
   "name": "mini-median-filter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Removes noise from 1D signals by replacing each sample with the median of its window.",
   "type": "module",
   "main": "src/index.js",
